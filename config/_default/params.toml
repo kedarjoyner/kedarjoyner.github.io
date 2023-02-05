@@ -1,14 +1,12 @@
 # config/_default/params.toml
 
-# colorScheme = "congo"
-
 defaultAppearance = "light"
 
 robots = "noindex"
 
-header.showTitle = false
+header.showTitle = true
 
-homepage.layout = "profile"
+homepage.layout = "custom"
 
 footer.showThemeAttribution	= true
 autoSwitchAppearance = false

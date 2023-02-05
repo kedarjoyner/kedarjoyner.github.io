@@ -1,7 +1,12 @@
 [[main]]
-  name = ""
-  pageRef = "posts"
-  weight = 10
+  name = "Instagram"
+  url = "https://www.instagram.com/kedarjoynerdraws"
+  # pageRef = "posts"
+  # weight = 10
+   [main.params]
+    icon = "instagram"
+    showName = false
+    target = "_blank"
 
 [[main]]
   name = ""
