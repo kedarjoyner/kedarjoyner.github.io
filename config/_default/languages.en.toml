@@ -1,6 +1,7 @@
 # config/_default/languages.en.toml
 
 title = "Kedar Joyner"
+description = "A UX/UI designer with a knack for programming."
 
 [author]
 name = "Hello, I'm Kedar Joyner 👋"

@@ -1,11 +1,17 @@
 # config/_default/params.toml
 
-colorScheme = "basic"
+# colorScheme = "congo"
+
+defaultAppearance = "light"
+
+robots = "noindex"
+
+header.showTitle = false
 
 homepage.layout = "profile"
 
-footer.showThemeAttribution	= false
-
-header.showTitle = false
+footer.showThemeAttribution	= true
+autoSwitchAppearance = false
+# footer.showAppearanceSwitcher = true
 
 copyright = "BRB, learning how to code again 👩‍💻"
