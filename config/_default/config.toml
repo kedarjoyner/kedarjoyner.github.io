@@ -1,0 +1,4 @@
+# config/_default/config.toml
+
+baseURL = "kedarjoynergithu.io"
+languageCode = "en"
