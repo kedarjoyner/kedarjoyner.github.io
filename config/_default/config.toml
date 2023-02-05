@@ -1,4 +1,4 @@
 # config/_default/config.toml
 
-baseURL = "kedarjoyner.github.io"
+baseURL = "https://kedarjoyner.github.io"
 languageCode = "en"
