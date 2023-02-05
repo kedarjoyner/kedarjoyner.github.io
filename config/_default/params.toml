@@ -1,0 +1,11 @@
+# config/_default/params.toml
+
+colorScheme = "basic"
+
+homepage.layout = "profile"
+
+footer.showThemeAttribution	= false
+
+header.showTitle = false
+
+copyright = "BRB, learning how to code again 👩‍💻"

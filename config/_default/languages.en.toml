@@ -1,12 +1,12 @@
 # config/_default/languages.en.toml
 
-title = "My awesome website"
+title = "Kedar Joyner"
 
 [author]
-name = "Kedar"
+name = "Hello, I'm Kedar Joyner 👋"
 image = "img/author.jpg"
-headline = "A generally awesome human"
+headline = "My name rhymes with cheddar. New site coming soon!"
 bio = "A little bit about me"
 links = [
-  { twitter = "https://twitter.com/username" }
+  { instagram = "https://www.instagram.com/kedarjoynerdraws" }
 ]
