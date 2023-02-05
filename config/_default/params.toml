@@ -13,3 +13,5 @@ autoSwitchAppearance = false
 # footer.showAppearanceSwitcher = true
 
 copyright = "BRB, learning how to code again 👩‍💻"
+
+homepage.showRecent = true

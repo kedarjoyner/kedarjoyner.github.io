@@ -4,10 +4,10 @@ title = "Kedar Joyner"
 description = "A UX/UI designer with a knack for programming."
 
 [author]
-name = "Hello, I'm Kedar 👋"
+name = "Kedar Joyner 💕"
 image = "img/author.jpg"
-headline = "My name rhymes with cheddar. New site coming soon!"
-bio = "A little bit about me"
+headline = ""
+bio = "UX/UI Designer with a knack for programming"
 links = [
   { instagram = "https://www.instagram.com/kedarjoynerdraws" }
 ]
