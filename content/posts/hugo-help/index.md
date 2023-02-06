@@ -34,7 +34,7 @@ Modules make it easier to...
 2. easily upgrade the theme when updates release 
 3. protect you from yourself so you don't edit the original theme files 
 
-And guess what? If you re-clone your repository that uses the submodule method, your theme's submodules need to be updated too. That took me about 4 hours to figure out. Thank you [double-beep](https://stackoverflow.com/a/65745209) on stack overflow. 
+And guess what? If you re-clone your repository that uses the old submodule method, your theme's submodules need to be updated too or your site just...breaks. That took me about 4 hours to figure out. Thank you [double-beep](https://stackoverflow.com/a/65745209) on stack overflow. 
 
 Learn more about the pros and cons of setting up a theme from [Nicholas Gracilla](https://stackoverflow.com/a/65745209). 
 
