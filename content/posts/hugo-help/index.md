@@ -15,7 +15,7 @@ If you need a simple blog or portfolio site and have little experience writing c
  
  [This article](https://arun.is/blog/choosing-a-static-site-generator/) from a product designer name Arun helped me narrow down the choices for a static site generator. "Stick with what's familiar" and "Find a generator with plenty of support" are key. 
 
-Honestly, Hugo is more complicated than *what I even need* but I had a few goals that made the experience valuable to me (so far). I wanted to... 
+Honestly, Hugo is more complicated than what I even need but I had a few goals that made the experience valuable to me. I wanted to... 
 
 1. build a portfolio site that is simple and accessible
 2. move my existing Squarespace site to <a target="_blank" href="https://pages.github.com/">Github Pages</a> to save on hosting costs
@@ -45,7 +45,7 @@ Okay, this was an absolute b*t$h to figure out but my site now auto-deploys to m
 
 First, follow Hugo's tutorial on how to [host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/). 
 
-Second, make sure your Workflow Permissons for the your project is set to `Read and write permissions`: 
+Second, make sure your Workflow Permissons for your project are set to `Read and write`: 
 1. Go to your project settings in Github 
 2. Click on Actions, and then General
 3. Scroll to the bottom to change your default Workflow permissions
