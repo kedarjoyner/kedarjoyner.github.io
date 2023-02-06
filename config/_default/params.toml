@@ -14,4 +14,4 @@ autoSwitchAppearance = false
 
 copyright = "BRB, learning how to code again 👩‍💻"
 
-homepage.showRecent = true
+homepage.showRecent = false

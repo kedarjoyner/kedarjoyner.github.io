@@ -33,9 +33,13 @@ I'm sure there are more technical benefits that I'm not aware of, but I'm the wo
 
 ## Auto deploying a Hugo site to Github Pages 
 
-Okay, this was an absolute b*t$h to figure out but my site now auto-deploys to my `gh-page`s branch using `Git Workflows/Actions`, but it was a pain to figure out. 
+Okay, this was an absolute b*t$h to figure out but my site now auto-deploys to my `gh-page`s branch using Git Workflows/Actions, but it was a pain to figure out. 
 
-I hope this code can be useful to you. 
+First, follow Hugo's tutorial on how to [host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/). 
+
+Second, make sure your 
+
+
 
 
 
