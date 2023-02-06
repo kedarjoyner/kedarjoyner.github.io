@@ -50,7 +50,7 @@ Second, make sure your Workflow Permissons for the your project is set to `Read 
 2. Click on Actions, and then General
 3. Scroll to the bottom to change your default Workflow permissions
 
-![Read and write permissions](git-worfklow-permissions.png)
+![Read and write permissions](git-workflow-permissions.png)
 
 ## That's all (for now)
 
