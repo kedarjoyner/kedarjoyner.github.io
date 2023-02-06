@@ -11,9 +11,9 @@ I've spend the past 48 hours learning [Hugo](https://gohugo.io/) and stumbled up
 
 ## Should I use Hugo?
 
-If you're not a developer or don't want to be, you probably should use Hugo. Checkout simpler static site generators like [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) and [11nty](https://www.11ty.dev/) instead. 
+If you need a simple blog or portfolio site and have little experience writing code, Hugo is probably not for you. Checkout simpler static site generators like [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) and [11nty](https://www.11ty.dev/) instead. 
  
-If you need a simple blog or portfolio site and have little experience writing code, Hugo is probably not for you. [This article](https://arun.is/blog/choosing-a-static-site-generator/) from a product designer name Arun helped me make narrow down my choices for a static site generator. "Stick with what's familiar" and "Find a generator with plenty of support" are key. 
+ [This article](https://arun.is/blog/choosing-a-static-site-generator/) from a product designer name Arun helped me make narrow down my choices for a static site generator. "Stick with what's familiar" and "Find a generator with plenty of support" are key. 
 
 Honestly, Hugo is more complicated than *what I even need* but I had a few goals that made the experience valuable to me (so far). I wanted to... 
 
