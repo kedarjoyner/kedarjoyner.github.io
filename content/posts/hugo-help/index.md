@@ -1,7 +1,7 @@
 ---
 title: "Helpful resources for learning Hugo"
 date: 2023-02-05
-draft: true
+draft: false
 icon: "github"
 summary: "hello"
 tags: ['Hugo', 'Tailwind', 'Github', 'Web Development']
