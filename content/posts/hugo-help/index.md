@@ -2,7 +2,9 @@
 title: "Helpful resources for learning Hugo"
 date: 2023-02-05
 draft: true
-img: 
+icon: "github"
+summary: "hello"
+tags: ['Hugo', 'Tailwind', 'Github', 'Web Development']
 ---
 
 I've spend the past 48 hours learning [Hugo](https://gohugo.io/) and stumbled upon a few useful resources that might help others who want to learn. 
@@ -27,9 +29,15 @@ As of this blog post, I'm using the [Congo](https://jpanther.github.io/congo/doc
 
 It took me hours to figure out, but it's best to use a [module for adding a theme](https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme) to your project rather than submodules. A lot of website tutorials haven't updated their documentation yet, but it's Hugo's recommended method for adding themes now.
 
-Modules make it easier to swap themes in the future, upgrade the theme as it changes, and also protect you from editing the original theme files (always override, don't edit them directly!). 
+Modules make it easier to...
+1. swap themes in the future
+2. easily upgrade the theme when updates release 
+3. protect you from yourself so you don't edit the original theme files 
 
-I'm sure there are more technical benefits that I'm not aware of, but I'm the world's `okayest` developer and don't always understand the more complicated bits 👾. 
+And guess what? If you clone your repository that uses the submodule method, your theme module's submodule needs to be updated too. That took me about 4 hours to figure out. Thank you [double-beep](https://stackoverflow.com/a/65745209) on stack overflow. 
+
+Learn more about the pros and cons of these theme modules from [Nicholas Gracilla](https://stackoverflow.com/a/65745209). 
+
 
 ## Auto deploying a Hugo site to Github Pages 
 
@@ -37,7 +45,21 @@ Okay, this was an absolute b*t$h to figure out but my site now auto-deploys to m
 
 First, follow Hugo's tutorial on how to [host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/). 
 
-Second, make sure your 
+Second, make sure your Workflow Permissons for the your project is set to `Read and write permissions`: 
+1. Go to your project settings in Github 
+2. Click on Actions, and then General
+3. Scroll to the bottom to change your default Workflow permissions
+
+![Read and write permissions](git-worfklow-permissions.png)
+
+## That's all (for now)
+
+As I mentioned, I just started learning two days ago but I'm enjoying the Hugo experience using the open source [Congo](https://jpanther.github.io/congo/docs) theme.
+
+Even if you don't use this theme, Congo's documentation is a great way to understand the basics of how Hugo works.
+
+Happy Hugo-ing?! 🏄‍♀️
+
 
 
 
