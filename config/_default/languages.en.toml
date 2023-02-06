@@ -5,7 +5,7 @@ description = "A UX/UI designer with a knack for programming."
 
 [author]
 name = "Kedar Joyner 💕"
-image = "img/author.jpg"
+image = "../assets/author-avatar.jpg"
 headline = ""
 bio = "UX/UI Designer with a knack for programming"
 links = [
