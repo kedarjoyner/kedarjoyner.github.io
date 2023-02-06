@@ -9,7 +9,7 @@ tags: ['Hugo', 'Tailwind', 'Github', 'Web Development']
 
 I've spend the past 48 hours learning [Hugo](https://gohugo.io/) and stumbled upon a few useful resources that might help others who want to learn. 
 
-## Should I use Hugo?
+## Should you use Hugo?
 
 If you need a simple blog or portfolio site and have little experience writing code, Hugo is probably not for you. Checkout simpler static site generators like [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) and [11nty](https://www.11ty.dev/) instead. 
  
@@ -25,7 +25,7 @@ Hugo has a steep learning curve and the documentation needs *a lot* of work, but
 
 ## Consider starting with a theme
 
-As of this blog post, I'm using the [Congo](https://jpanther.github.io/congo/docs/) theme, because I wanted to use [Tailwind CSS](https://tailwindcss.com/) and it has 600+ followers with an active community. Just today, the creator responded to my three different annoying questions (Hi, James! Thank you! 🙏). Because Hugos's documentation is quite confusing, I thought it would be helpful to learn with a theme so I can understand best practices. 
+As of this blog post, I'm using the [Congo](https://jpanther.github.io/congo/docs/) theme, because I wanted to use [Tailwind CSS](https://tailwindcss.com/) and it has 600+ followers with an active community. Just today, the creator responded to my three different annoying questions (Hi, James! Thank you! 🙏). Because Hugo's documentation is confusing, I thought it would be helpful to learn with a theme so I can understand best practices. 
 
 It took me hours to figure out, but it's best to use a [module for adding a theme](https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme) to your project rather than submodules. A lot of website tutorials haven't updated their documentation yet, but it's Hugo's recommended method for adding themes now.
 
@@ -34,14 +34,14 @@ Modules make it easier to...
 2. easily upgrade the theme when updates release 
 3. protect you from yourself so you don't edit the original theme files 
 
-And guess what? If you clone your repository that uses the submodule method, your theme module's submodule needs to be updated too. That took me about 4 hours to figure out. Thank you [double-beep](https://stackoverflow.com/a/65745209) on stack overflow. 
+And guess what? If you re-clone your repository that uses the submodule method, your theme's submodules need to be updated too. That took me about 4 hours to figure out. Thank you [double-beep](https://stackoverflow.com/a/65745209) on stack overflow. 
 
-Learn more about the pros and cons of these theme modules from [Nicholas Gracilla](https://stackoverflow.com/a/65745209). 
+Learn more about the pros and cons of setting up a theme from [Nicholas Gracilla](https://stackoverflow.com/a/65745209). 
 
 
 ## Auto deploying a Hugo site to Github Pages 
 
-Okay, this was an absolute b*t$h to figure out but my site now auto-deploys to my `gh-page`s branch using Git Workflows/Actions, but it was a pain to figure out. 
+Okay, this was an absolute b*t$h to figure out but my site now auto-deploys to my `gh-pages` branch using Git Workflows/Actions.
 
 First, follow Hugo's tutorial on how to [host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/). 
 
